@@ -1,0 +1,5 @@
+Preprocessing Level,Accuracy
+Level 0 (Raw),0.815
+Level 1 (Basic clean),0.815
+Level 2 (+ Stopwords),0.8175
+Level 3 (+ Lemmatization),0.815
